@@ -19,4 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulkrishnas&show_icons=true&locale=en" alt="gokulkrishnas" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gokulkrishnas&theme=dark" alt="GitHub Streak" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulkrishnas&" alt="gokulkrishnas" /></p>
