@@ -13,7 +13,7 @@ Enthusiastic Data Scientist with a strong BI and Analytics background. Proficien
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkrishnas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gokulkrishnas&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gokulkrishnas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gokulkrishnas&icon=2&color=1)](https://visitcount.itsvg.in)
