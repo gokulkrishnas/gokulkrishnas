@@ -1,6 +1,8 @@
 # 💫 About Me:
 Enthusiastic Data Scientist with a strong BI and Analytics background. Proficient in Data Processing, and Data Mining algorithms, as well as scripting languages like SOL, including Python. With 2.5 years of experience in translating complex datasets into clear insights to boost the decision-making process, with a proven track record of enhancing business processes and growth.
 
+## 🌐 Portfolio:
+[![Website](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](coming-soon) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulkrishna-s-gks) 
@@ -14,8 +16,3 @@ Enthusiastic Data Scientist with a strong BI and Analytics background. Proficien
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gokulkrishnas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=gokulkrishnas&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
