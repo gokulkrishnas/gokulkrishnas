@@ -1,19 +1,19 @@
 # 💫 About Me:
-##👋 Hello, World! I'm Gokul 👩‍💻🔍
-##I’m a passionate Data Scientist who loves turning raw data into meaningful insights. With a blend of machine learning, statistics, and data visualization, I aim to uncover hidden stories in data and use them to drive smarter decisions.
+👋 Hello, World! I'm Gokul 👩‍💻🔍<br/> 
+I’m a passionate Data Scientist who loves turning raw data into meaningful insights. With a blend of machine learning, statistics, and data visualization, I aim to uncover hidden stories in data and use them to drive smarter decisions.<br/> 
 
-##🔭 What I do:
-##Machine Learning & AI: Building predictive models that learn from data.
-##Data Analysis: Extracting actionable insights from complex datasets.
-##Data Visualization: Telling compelling stories with beautiful visualizations using tools like Matplotlib, Seaborn, and Tableau.
-##Python & R Enthusiast: I love coding in Python 🐍 and R 🧑‍🔬.
-##🌱 Currently learning:
-##Language models: Loves to fiddle with LLMs like ollama, google gemini, etc.
-##Deep Learning: Exploring neural networks with TensorFlow and PyTorch.
-##Big Data: Working with large datasets using PySpark and Hadoop.
-##👯 Let's collaborate on:
-##Interesting Data Projects: Anything involving data exploration, predictive modeling, or AI applications.
-##Open Source Contributions: Always eager to contribute to data science projects in the community.
+🔭 What I do:<br/> 
+Machine Learning & AI: Building predictive models that learn from data.<br/> 
+Data Analysis: Extracting actionable insights from complex datasets.<br/> 
+Data Visualization: Telling compelling stories with beautiful visualizations using tools like Matplotlib, Seaborn, and Tableau.<br/> 
+Python & R Enthusiast: I love coding in Python 🐍 and R 🧑‍🔬.<br/> 
+🌱 Currently learning:<br/> 
+Language models: Loves to fiddle with LLMs like ollama, google gemini, etc.<br/> 
+Deep Learning: Exploring neural networks with TensorFlow and PyTorch.<br/> 
+Big Data: Working with large datasets using PySpark and Hadoop.<br/> 
+👯 Let's collaborate on:<br/> 
+Interesting Data Projects: Anything involving data exploration, predictive modeling, or AI applications.<br/> 
+Open Source Contributions: Always eager to contribute to data science projects in the community.<br/> 
 
 ## 👨🏻‍💻 Portfolio:
 [![Website](https://img.shields.io/badge/💻Portfolio-00457C?style=for-the-badge)](www.coming-soon.com) 
