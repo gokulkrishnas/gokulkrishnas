@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 👋 Hello, World! I'm **Gokul** 👩‍💻🔍<br/> 
 I’m a passionate Data Scientist who loves turning raw data into meaningful insights. With a blend of machine learning, statistics, and data visualization, I aim to uncover hidden stories in data and use them to drive smarter decisions.<br/> 
 
 # 🔭 What I do:<br/> 
