@@ -1,17 +1,17 @@
 # 💫 About Me:
-#👋 Hello, World! I'm **Gokul** 👩‍💻🔍<br/> 
+# 👋 Hello, World! I'm **Gokul** 👩‍💻🔍<br/> 
 I’m a passionate Data Scientist who loves turning raw data into meaningful insights. With a blend of machine learning, statistics, and data visualization, I aim to uncover hidden stories in data and use them to drive smarter decisions.<br/> 
 
-#🔭 What I do:<br/> 
+# 🔭 What I do:<br/> 
 <code style="color : aqua">**Machine Learning & AI:**</code> Building predictive models that learn from data.<br/> 
 <code style="color : aqua">**Data Analysis:**</code> Extracting actionable insights from complex datasets.<br/> 
 <code style="color : aqua">**Data Visualization:**</code> Telling compelling stories with beautiful visualizations using tools like Matplotlib, Seaborn, and Tableau.<br/> 
 <code style="color : aqua">**Python & R Enthusiast:**</code> I love coding in Python 🐍 and R 🧑‍🔬.<br/> 
-#🌱 Currently learning:<br/> 
+# 🌱 Currently learning:<br/> 
 <code style="color : aqua">**Language models:**</code> Loves to fiddle with LLMs like ollama, google gemini, etc.<br/> 
 <code style="color : aqua">**Deep Learning:**</code> Exploring neural networks with TensorFlow and PyTorch.<br/> 
 <code style="color : aqua">**Big Data:**</code> Working with large datasets using PySpark and Hadoop.<br/> 
-#👯 Let's collaborate on:<br/> 
+# 👯 Let's collaborate on:<br/> 
 <code style="color : aqua">**Interesting Data Projects:**</code> Anything involving data exploration, predictive modeling, or AI applications.<br/> 
 <code style="color : aqua">**Open Source Contributions:**</code> Always eager to contribute to data science projects in the community.<br/> 
 
