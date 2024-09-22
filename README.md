@@ -1,5 +1,19 @@
 # 💫 About Me:
-Enthusiastic Data Scientist with a strong BI and Analytics background. Proficient in Data Processing, and Data Mining algorithms, as well as scripting languages like SOL, including Python. With 2.5 years of experience in translating complex datasets into clear insights to boost the decision-making process, with a proven track record of enhancing business processes and growth.
+👋 Hello, World! I'm Gokul 👩‍💻🔍
+I’m a passionate Data Scientist who loves turning raw data into meaningful insights. With a blend of machine learning, statistics, and data visualization, I aim to uncover hidden stories in data and use them to drive smarter decisions.
+
+🔭 What I do:
+Machine Learning & AI: Building predictive models that learn from data.
+Data Analysis: Extracting actionable insights from complex datasets.
+Data Visualization: Telling compelling stories with beautiful visualizations using tools like Matplotlib, Seaborn, and Tableau.
+Python & R Enthusiast: I love coding in Python 🐍 and R 🧑‍🔬.
+🌱 Currently learning:
+Language models: Loves to fiddle with LLMs like ollama, google gemini, etc.
+Deep Learning: Exploring neural networks with TensorFlow and PyTorch.
+Big Data: Working with large datasets using PySpark and Hadoop.
+👯 Let's collaborate on:
+Interesting Data Projects: Anything involving data exploration, predictive modeling, or AI applications.
+Open Source Contributions: Always eager to contribute to data science projects in the community.
 
 ## 👨🏻‍💻 Portfolio:
 [![Website](https://img.shields.io/badge/💻Portfolio-00457C?style=for-the-badge)](www.coming-soon.com) 
