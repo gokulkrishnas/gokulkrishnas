@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate Data Scientist who loves turning raw data into meaningful insights. With a blend of machine learning, statistics, and data visualization, I aim to uncover hidden stories in data and use them to drive smarter decisions.<br/> 
+I’m a passionate **Data Scientist** who loves turning raw data into meaningful insights. With a blend of machine learning, statistics, and data visualization, I aim to uncover hidden stories in data and use them to drive smarter decisions.<br/> 
 
 # 🔭 What I do:<br/> 
 <code style="color : aqua">**Machine Learning & AI:**</code> Building predictive models that learn from data.<br/> 
