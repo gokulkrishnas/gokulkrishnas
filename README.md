@@ -4,8 +4,8 @@ I’m a passionate **Data Scientist** who loves turning raw data into meaningful
 # 🔭 What I do:<br/> 
 <code style="color : aqua">**Machine Learning & AI:**</code> Building predictive models that learn from data.<br/> 
 <code style="color : aqua">**Data Analysis:**</code> Extracting actionable insights from complex datasets.<br/> 
-<code style="color : aqua">**Data Visualization:**</code> Telling compelling stories with beautiful visualizations using tools like Matplotlib, Seaborn, and Tableau.<br/> 
-<code style="color : aqua">**Python & R Enthusiast:**</code> I love coding in Python 🐍 and R 🧑‍🔬.<br/> 
+<code style="color : aqua">**Data Visualization:**</code> Telling compelling stories with beautiful visualizations using tools like Matplotlib, Seaborn, and PowerBI.<br/> 
+<code style="color : aqua">**Python Enthusiast:**</code> I love coding in Python 🐍.<br/> 
 # 🌱 Currently learning:<br/> 
 <code style="color : aqua">**Language models:**</code> Loves to fiddle with LLMs like ollama, google gemini, etc.<br/> 
 <code style="color : aqua">**Deep Learning:**</code> Exploring neural networks with TensorFlow and PyTorch.<br/> 
