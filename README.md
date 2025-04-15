@@ -15,7 +15,7 @@ I’m a passionate **Data Scientist** who loves transforming messy datasets into
 <code style="color : aqua">**Open Source Contributions:**</code> Always eager to contribute to data science projects in the community.<br/> 
 
 ## 👨🏻‍💻 Portfolio:
-[![Website](https://img.shields.io/badge/💻Portfolio-00457C?style=for-the-badge)]((https://gokulkrishnas.github.io/gokul-portfolio/)))
+[![Website](https://img.shields.io/badge/💻Portfolio-00457C?style=for-the-badge)](https://gokulkrishnas.github.io/gokul-portfolio/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulkrishna-s-gks) 
